@@ -12,7 +12,7 @@ import java.net.InetAddress;
 import java.net.SocketException;
 
 public class Rfc865UdpClient {
-	static String SERVER_NAME = "localhost";
+	static String SERVER_NAME = "hwlab1.scse.ntu.edu.sg";
 	public static void main(String[] args) {
 
 	DatagramSocket socket=null;
